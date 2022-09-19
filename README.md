@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raychd
+- 👋 Hi, I’m @Ryadhd
 - 👀 I’m interested in AI and machine learning
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on breast cancer diagnosis
